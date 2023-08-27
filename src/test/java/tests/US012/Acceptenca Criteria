@@ -1,0 +1,55 @@
+Vendor Billing Address (Fatura Adresi) ekleyebilmeli.
+(My Account - Adressses - Billing Address)
+
+US_12/TC01_POZITIVE TEST
+
+First name, Last name ve Email addresi; olarak otomatik gelmeli
+Country/Region, Street address, Town / City, State, ZIP Code ve Phone girilmeli
+Save Address butonuna tıklayarak Billing Addrese (Fatura Adresi) eklenmeli
+"Address changed successfully." metni görülmeli
+
+
+
+Vendor add Billing Address to web site (https://allovercommerce.com/)
+(My Account - Adressses - Billing Address)
+Login as seller
+Go to the bottom of the page and click "My Account”
+Click the "Addresses" link
+Click "ADD" in the "Billing Address" section
+Verify that the e-mail is written automatically in the 'Email address' section on the 'Addresses' page
+Enter the 'First name'
+Enter the 'Last name'
+Enter dropdown also select country
+Enter the Street address
+Enter the dropdown should also be able to select the States
+Enter the "ZIP/Code"
+Enter the Phone Number
+Verify that the "SAVE ADDRESS" Button has been clicked
+"The address has been successfully changed." Verify that "must see" appears
+
+
+US_12/TC02_NEGATIVE TEST
+
+First name Last name GIRILMEMELI ve Email addresi; olarak otomatik gelmeli
+Country/Region, Street address, Town / City, State, ZIP Code ve Phone GİRİLMEMELI
+Save Address butonuna tıklayarak Billing Addrese (Fatura Adresi) eklenmeli
+"Address changed successfully." metninin görülmediği doğrulanmalı...
+
+
+
+Vendor add Billing Address to web site (https://allovercommerce.com/)
+(My Account - Adressses - Billing Address)
+Login as seller
+Go to the bottom of the page and click "My Account”
+Click the "Addresses" link
+Click "ADD" in the "Billing Address" section
+Verify that the e-mail is written automatically in the 'Email address' section on the 'Addresses' page
+Don't enter the 'First name'
+Don't enter the 'Last name'
+Enter dropdown also select country
+Enter the Street address
+Enter the dropdown should also be able to select the States
+Enter the "ZIP/Code"
+Don't enter the Phone Number
+Verify that the "SAVE ADDRESS" Button has been clicked
+"The address has been successfully changed." Verify that "must see" appears

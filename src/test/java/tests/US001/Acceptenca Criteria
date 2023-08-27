@@ -1,0 +1,5 @@
+Username girilmeli (Küçük harf, büyük harf, rakam ve özel karakter içerebilmeli)
+e-mail adresi girilmeli (abc@abc.com formatında e mail adresi olmalı)
+Password girilebilmelidir. (Parola en az 12 karakter uzunluğunda olmalıdır. Daha güçlü hale getirmek için büyük ve küçük harfler, sayılar ve ! " ? $ % ^ & kullanılmalıdır. )
+"I agree to the privacy policy" tıklanmadan kayıt olunmamalı
+SIGN UP butonu tıklanabilir olmalı (Username, Email address ve Password girilmeden SIGN UP tıklandığında kayıt işlemi gerçekleşmemeli)

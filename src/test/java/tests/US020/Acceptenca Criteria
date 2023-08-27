@@ -1,0 +1,8 @@
+Users should be able to select Product / Products and add them to their cart.
+Products and items to be purchased should be visible during the Chart-Checkout process.
+User should be able to fill BILLING DETAILS.
+Total amount should be visible.
+Wire transfer/EFT or Pay at the door options should be selectable.
+The generated coupon should be entered by clicking ENTER YOUR CODE.
+By clicking on Place Order, the user should be able to see that the shopping has been completed.
+User should be able to see the details of his/her purchase by clicking My Account -Orders.

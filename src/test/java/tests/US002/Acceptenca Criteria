@@ -1,0 +1,6 @@
+Kayıtlı bir Username girilmeli
+Kayıtlı bir e-mail adresi girilmeli  (abc@abc.com formatında e mail adresi olmalı)
+Password girilebilmelidir. (Parola en az 12 karakter uzunluğunda olmalıdır.
+ Daha güçlü hale getirmek için büyük ve küçük harfler, sayılar ve ! " ? $ % ^ & kullanılmalıdır. )
+SIGN UP butonuna tıklanmalı (Username, Email address ve Password girilmeden SIGN UP butonu tıklanabilir olmamalı)
+"An account is already registered with your email address." uyarı metni ve "Please log in." görülmeli

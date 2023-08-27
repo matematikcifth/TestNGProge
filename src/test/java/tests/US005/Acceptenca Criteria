@@ -1,0 +1,7 @@
+Description
+    User should be able to edit Account Details
+    (My Acount > Account Details)"	User should be able to see Account Details.
+Acceptance Criteria
+	First name, Last name, Display name ve Email address should be editable.
+	User should be able to fill in the Biography section.
+	User should be able to change password.

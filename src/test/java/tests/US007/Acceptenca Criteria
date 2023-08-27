@@ -1,0 +1,8 @@
+Description
+    User should be able to compare selected items. (Compare)
+
+Acceptance Criteria
+    User should be able to select up to 4 products to compare
+    The user should be able to remove products from comparison and add new products.
+    The user should be able to compare selected products
+    The user should be able to remove items from the comparison screen.

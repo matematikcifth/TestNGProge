@@ -1,0 +1,4 @@
+First name, Last name ve Email addresi; olarak otomatik gelmeli
+Country/Region, Street address, Town / City, State, ZIP Code ve Phone girilmeli
+Save Address butonuna tıklayarak Billing Addrese (Fatura Adresi) eklenmeli
+"Address changed successfully." metni görülmeli

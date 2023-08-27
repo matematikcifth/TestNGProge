@@ -1,0 +1,64 @@
+Vendor Shipping Adress (Teslimat Adresi)  ekleyebilmeli
+(My Account - Adressses - Shipping Address)
+First name, Last name, Company name (optional), Country/Region, Street address, Town / City, State ve ZIP Code  girilmeli
+Save Address butonuna tıklayarak Shipping Addrese (Teslimat Adresi) eklenmeli
+"Address changed successfully." metni görülmeli
+
+
+US_13/TC01
+Login as a "Vendor".
+Scroll down the page until you see 'My account't and click.
+Click 'My Addresses'
+Mouse over the 'ADD' link under Shipping Address and click when underlined.
+Enter your name in the "First Name" field.
+Enter your last name in the "Last Name" field.
+Enter Country in the "Country /Region" field and select the Country that appears.
+Enter Address in the Street Address field
+Enter Town/City in the Town/City field
+Enter ZIP Code in the ZIP Code field
+Enter State in the "State" field and select the State that appears.
+Enter Province in the Province field
+Click to 'Save Address' button
+"Address changed successfully." Verify that the message appears.
+
+
+
+
+
+
+
+US_13/TC02
+
+Login as a "Vendor".
+Scroll down the page until you see 'My account't and click.
+Click 'My Addresses'
+Mouse over the 'ADD' link under Shipping Address and click when underlined.
+Enter nothing in the "First Name" field.
+Enter your last name in the "Last Name" field.
+Enter Country in the "Country /Region" field and select the Country that appears.
+Enter Address in the Street Address field
+Enter Town/City in the Town/City field
+Enter ZIP Code in the ZIP Code field
+Enter State in the "State" field and select the State that appears.
+Enter Province in the Province field
+Click to 'Save Address' button
+"First name is a required field." Verify that the message appears.
+
+
+
+
+US_13/TC03
+Login as a "Vendor".
+Click 'My account'
+Click 'My Addresses'
+Click to the button 'ADD' for shipping address
+Enter your first name in the "First Name" field.
+Enter nothing in the "Last Name" field.
+Enter Country in the "Country /Region" field and select the Country that appears.
+Enter Address in the Street Address field
+Enter Town/City in the Town/City field
+Enter ZIP Code in the ZIP Code field
+Enter State in the "State" field and select the State that appears.
+Enter Province in the Province field
+Click to 'Save Address' button
+"Last name is a required field." Verify that the message appears.
